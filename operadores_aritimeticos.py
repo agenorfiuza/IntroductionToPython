@@ -25,4 +25,3 @@ print(10 % 3)
 # exponenciação
 print(2 ** 3)
 #>> 8
-
